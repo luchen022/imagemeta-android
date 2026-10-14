@@ -1,0 +1,19 @@
+ImageMeta third-party notices
+
+AndroidX ExifInterface 1.4.2
+Copyright The Android Open Source Project.
+Licensed under the Apache License, Version 2.0.
+https://developer.android.com/jetpack/androidx/releases/exifinterface
+
+metadata-extractor 2.19.0
+Copyright Drew Noakes and contributors.
+Licensed under the Apache License, Version 2.0.
+https://github.com/drewnoakes/metadata-extractor
+
+Adobe XMP Core 6.1.11
+Copyright Adobe Systems Incorporated / Adobe.
+Licensed under the BSD 3-Clause License.
+https://github.com/adobe/XMP-Toolkit-SDK
+
+Complete license texts are included in this directory.
+JUnit and Robolectric are used for tests only and are not included in the APK.
